@@ -1,0 +1,7 @@
+C:\Users\alex.UICENTRIC\Documents\Visual Studio 2013\Projects\ThermalActivity\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\alex.UICENTRIC\Documents\Visual Studio 2013\Projects\ThermalActivity\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\alex.UICENTRIC\Documents\Visual Studio 2013\Projects\ThermalActivity\UnitTestProject\bin\Debug\ThermalActivity.exe
+C:\Users\alex.UICENTRIC\Documents\Visual Studio 2013\Projects\ThermalActivity\UnitTestProject\bin\Debug\ThermalActivity.pdb
+C:\Users\alex.UICENTRIC\Documents\Visual Studio 2013\Projects\ThermalActivity\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\alex.UICENTRIC\Documents\Visual Studio 2013\Projects\ThermalActivity\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\alex.UICENTRIC\Documents\Visual Studio 2013\Projects\ThermalActivity\UnitTestProject\obj\Debug\UnitTestProject.pdb

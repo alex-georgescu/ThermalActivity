@@ -1,0 +1,19 @@
+c:\users\alex.uicentric\documents\visual studio 2013\Projects\ThermalActivity\ThermalActivity\bin\Debug\ThermalActivity.exe.config
+c:\users\alex.uicentric\documents\visual studio 2013\Projects\ThermalActivity\ThermalActivity\bin\Debug\ThermalActivity.exe
+c:\users\alex.uicentric\documents\visual studio 2013\Projects\ThermalActivity\ThermalActivity\bin\Debug\ThermalActivity.pdb
+c:\users\alex.uicentric\documents\visual studio 2013\Projects\ThermalActivity\ThermalActivity\obj\Debug\ThermalActivity.csprojResolveAssemblyReference.cache
+c:\users\alex.uicentric\documents\visual studio 2013\Projects\ThermalActivity\ThermalActivity\obj\Debug\MainWindow.baml
+c:\users\alex.uicentric\documents\visual studio 2013\Projects\ThermalActivity\ThermalActivity\obj\Debug\MainWindow.g.cs
+c:\users\alex.uicentric\documents\visual studio 2013\Projects\ThermalActivity\ThermalActivity\obj\Debug\App.g.cs
+c:\users\alex.uicentric\documents\visual studio 2013\Projects\ThermalActivity\ThermalActivity\obj\Debug\ThermalActivity_MarkupCompile.cache
+c:\users\alex.uicentric\documents\visual studio 2013\Projects\ThermalActivity\ThermalActivity\obj\Debug\ThermalActivity.g.resources
+c:\users\alex.uicentric\documents\visual studio 2013\Projects\ThermalActivity\ThermalActivity\obj\Debug\ThermalActivity.Properties.Resources.resources
+c:\users\alex.uicentric\documents\visual studio 2013\Projects\ThermalActivity\ThermalActivity\obj\Debug\ThermalActivity.csproj.GenerateResource.Cache
+c:\users\alex.uicentric\documents\visual studio 2013\Projects\ThermalActivity\ThermalActivity\obj\Debug\ThermalActivity.exe
+c:\users\alex.uicentric\documents\visual studio 2013\Projects\ThermalActivity\ThermalActivity\obj\Debug\ThermalActivity.pdb
+C:\Users\alex.UICENTRIC\Documents\Visual Studio 2013\Projects\ThermalActivity\ThermalActivity\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alex.UICENTRIC\Documents\Visual Studio 2013\Projects\ThermalActivity\ThermalActivity\obj\Debug\ThermalActivity_MarkupCompile.lref
+C:\Users\alex.UICENTRIC\Documents\Visual Studio 2013\Projects\ThermalActivity\ThermalActivity\obj\Debug\App.baml
+C:\Users\alex.UICENTRIC\Desktop\ThermalActivity\ThermalActivity\bin\Debug\ThermalActivity.exe.config
+C:\Users\alex.UICENTRIC\Desktop\ThermalActivity\ThermalActivity\obj\Debug\ThermalActivity.exe
+C:\Users\alex.UICENTRIC\Desktop\ThermalActivity\ThermalActivity\obj\Debug\ThermalActivity.pdb
